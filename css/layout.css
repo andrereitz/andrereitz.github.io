@@ -1,0 +1,15 @@
+.row {
+    width: 100%;
+    display: inline-block;
+}
+.container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+@media screen and (max-width: 1200px) {
+    .container {
+        max-width: 980px;    
+    }
+}
