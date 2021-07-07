@@ -3,6 +3,7 @@
 @import '/css/vars.css';
 @import '/css/forms.css';
 @import '/css/layout.css';
+@import '/css/reset.css';
 
 html, body {
 	position: relative;
@@ -18,7 +19,7 @@ html, body {
 
 body {
 	box-sizing: border-box;
-	font-family: 'Source Sans Pro', sans-serif;
+	font-family: var(--font-regular);
 }
 
 a {
@@ -35,5 +36,9 @@ a:visited {
 }
 
 h1, h2, h3, h4 {
-	font-family: 'Play', sans-serif;
+	font-family: var(--font-alt);
+}
+
+.font-light {
+	font-weight: 400;
 }

@@ -1,8 +1,7 @@
 :root {
 
     /* Colors */
-
-    --color-gray-400: #D8D7D7;
+    --color-gray-400: #D7D7D7;
     --color-gray-300: #606060;
     --color-gray-200: #505050;
     --color-white: #FFFFFF;
@@ -11,8 +10,6 @@
     --danger-color: #dc3545;
     --success-color: #28a745;
 
-    /* Breakpoints */
-    --media-tablet: '(min-width: 768px) and (max-width: 1024px)';
-    --media-mobile: '(max-width: 1024px)';
-
+    --font-regular: 'Source Sans Pro', sans-serif;
+    --font-alt: 'Play', sans-serif;
 }
