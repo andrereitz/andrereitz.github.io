@@ -20,19 +20,16 @@ html, body {
 body {
 	box-sizing: border-box;
 	font-family: var(--font-regular);
+	overflow-x: hidden;
 }
 
 a {
-	color: rgb(0,100,200);
+	color: var(--color-gray-100);
 	text-decoration: none;
 }
 
-a:hover {
-	text-decoration: underline;
-}
-
 a:visited {
-	color: rgb(0,80,160);
+	color: var(--color-gray-100);
 }
 
 h1, h2, h3, h4 {
