@@ -18,8 +18,16 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": ".",
+  "start_url": ".?launcher=homescreen",
   "display": "standalone",
   "theme_color": "#0F90C0",
-  "background_color": "#ffffff"
+  "background_color": "#ffffff",
+  "orientation": "portrait",
+  "shortcuts" : [
+    {
+      "name": "Where to find me",
+      "url": ".?#section-find",
+      "description": "Where to find me"
+    }
+  ]
 }
