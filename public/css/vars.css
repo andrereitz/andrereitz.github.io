@@ -1,0 +1,18 @@
+:root {
+    /* Colors */
+    --color-gray-500: #E3E3E3;
+    --color-gray-400: #D7D7D7;
+    --color-gray-375: #C1C1C1;
+    --color-gray-350: #707070;
+    --color-gray-300: #606060;
+    --color-gray-200: #505050;
+    --color-gray-100: #303030;
+    --color-white: #FFFFFF;
+    --color-primary: #0F90C0;
+    --color-secondary: #9D34CE;
+    --danger-color: #dc3545;
+    --success-color: #28a745;
+
+    --font-regular: 'Source Sans Pro', sans-serif;
+    --font-alt: 'Play', sans-serif;
+}

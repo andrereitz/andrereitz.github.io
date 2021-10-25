@@ -1,0 +1,13 @@
+{
+  "homepage": "https://andrereitz.github.io/",
+  "name": "andre-reitz-studies",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "deploy": "gh-pages -d public"
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  },
+  "dependencies": {}
+}

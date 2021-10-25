@@ -1,0 +1,33 @@
+{
+  "short_name": "Reitz Studies",
+  "name": "Andre Reitz's Studies",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "48x48 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "icon192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".?launcher=homescreen",
+  "display": "standalone",
+  "theme_color": "#0F90C0",
+  "background_color": "#ffffff",
+  "orientation": "portrait",
+  "shortcuts" : [
+    {
+      "name": "Where to find me",
+      "url": ".?#section-find",
+      "description": "Where to find me"
+    }
+  ]
+}

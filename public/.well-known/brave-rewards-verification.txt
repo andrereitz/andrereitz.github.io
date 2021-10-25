@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: andrereitz.github.io
+Token: 88d9ad38ecfd670c8e9071cafd52ae4a7c88fb0c5db5ea92f670043053fe428a
